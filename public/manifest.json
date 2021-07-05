@@ -1,0 +1,12 @@
+{
+  "name": "PWA Proof",
+  "short_name": "PWAProof",
+  "description": "This is a proof of concept for PWA",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#04658b",
+  "background_color": "#ed6b86",
+  "icons": []
+}

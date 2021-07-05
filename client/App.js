@@ -1,6 +1,4 @@
 import React from "react";
-
-// import Routes from "./Routes";
 import AllProducts from "./components/AllProducts";
 
 const App = () => {
